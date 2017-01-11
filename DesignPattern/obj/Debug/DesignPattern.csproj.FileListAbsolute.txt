@@ -1,0 +1,13 @@
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\MainWindow.g.cs
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\App.g.cs
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\DesignPattern_MarkupCompile.cache
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\DesignPattern_MarkupCompile.lref
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\MainWindow.baml
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\DesignPattern.g.resources
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\DesignPattern.Properties.Resources.resources
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csproj.GenerateResource.Cache
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb

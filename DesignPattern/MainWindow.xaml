@@ -1,0 +1,16 @@
+﻿<Window x:Class="DesignPattern.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DesignPattern"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ListBox Name="listBox" Margin="206,29,206,207" SelectionChanged="listBox_SelectedIndexChanged">
+            <ListBoxItem>Empire</ListBoxItem>
+            <ListBoxItem>Rebelle</ListBoxItem>
+        </ListBox>
+        <Button Name="button" Margin="166,151,166,101"/>
+    </Grid>
+</Window>
