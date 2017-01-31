@@ -7,10 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <ListBox Name="listBox" Margin="206,29,206,207" SelectionChanged="listBox_SelectedIndexChanged">
+        <ListBox Name="listBox" Margin="206,29,206,236" SelectionChanged="listBox_SelectedIndexChanged">
             <ListBoxItem>Empire</ListBoxItem>
             <ListBoxItem>Rebelle</ListBoxItem>
         </ListBox>
-        <Button Name="button" Margin="166,151,166,101"/>
+        <Button Name="button" Margin="206,88,206,211"/>
+        <Button x:Name="Button_R2D2" Content="R2D2" HorizontalAlignment="Left" Margin="35,158,0,0" VerticalAlignment="Top" Width="105" Click="R2D2_Click"/>
+        <Button x:Name="Button_C3PO" Content="C3PO" HorizontalAlignment="Left" Margin="379,158,0,0" VerticalAlignment="Top" Width="105" Click="C3PO_Click"/>
+        <Button x:Name="Button_BB8" Content="BB8" HorizontalAlignment="Left" Margin="206,158,0,0" VerticalAlignment="Top" Width="105" Click="BB8_Click"/>
+        <Button x:Name="Button_Droid" Content="Construct Me !" HorizontalAlignment="Left" Margin="206,250,0,0" VerticalAlignment="Top" Width="105"/>
     </Grid>
 </Window>

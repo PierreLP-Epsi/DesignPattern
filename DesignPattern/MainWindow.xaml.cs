@@ -15,15 +15,40 @@ using System.Windows.Shapes;
 
 namespace DesignPattern
 {
-    /// <summary>
-    /// Logique d'interaction pour MainWindow.xaml
-    /// </summary>
+
     public partial class MainWindow : Window
     {
+        IButton droidButton = new ButtonDroid(20, 105, 12);
+
         public MainWindow()
         {
             InitializeComponent();
             this.listBox.SelectionChanged += new SelectionChangedEventHandler(listBox_SelectedIndexChanged);
+        }
+
+        private void Reinitialized()
+        {
+            Button_Droid.Height = droidButton.GetHeigth();
+            Button_Droid.Width = droidButton.GetWidth();
+            Button_Droid.FontSize = droidButton.GetFontSize();
+        }
+
+        private void BB8_Click(object sender, RoutedEventArgs e)
+        {
+            droidButton = new ButtonBB8(droidButton);
+            Reinitialized();
+        }
+
+        private void C3PO_Click(object sender, RoutedEventArgs e)
+        {
+            droidButton = new ButtonC3PO(droidButton);
+            Reinitialized();
+        }
+
+        private void R2D2_Click(object sender, RoutedEventArgs e)
+        {
+            droidButton = new ButtonR2D2(droidButton);
+            Reinitialized();
         }
 
         private void listBox_SelectedIndexChanged(object sender, EventArgs e)

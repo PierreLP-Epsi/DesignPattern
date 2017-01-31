@@ -55,8 +55,13 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ButtonBB8.cs" />
     <Compile Include="ButtonEmpire.cs" />
+    <Compile Include="ButtonDroid.cs" />
     <Compile Include="ButtonRebelle.cs" />
+    <Compile Include="ButtonC3PO.cs" />
+    <Compile Include="IButton.cs" />
+    <Compile Include="ButtonR2D2.cs" />
     <Compile Include="RebelleTheme.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>

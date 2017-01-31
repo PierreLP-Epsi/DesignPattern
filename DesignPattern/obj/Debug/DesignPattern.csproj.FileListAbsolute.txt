@@ -11,3 +11,4 @@ C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPat
 C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csproj.GenerateResource.Cache
 C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
 C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\Pierre\Desktop\Sauvegarde\EPSI\B3\DesignPattern\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
