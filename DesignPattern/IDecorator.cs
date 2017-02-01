@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern
 {
-    interface IButton
+    interface IDecorator
     {
         int GetHeigth();
         int GetWidth();

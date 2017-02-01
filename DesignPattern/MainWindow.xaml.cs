@@ -18,7 +18,7 @@ namespace DesignPattern
 
     public partial class MainWindow : Window
     {
-        IButton droidButton = new ButtonDroid(20, 105, 12);
+        IDecorator droidButton = new ButtonDroid(20, 105, 12);
 
         public MainWindow()
         {

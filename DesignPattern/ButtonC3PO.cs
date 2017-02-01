@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace DesignPattern
 {
-    class ButtonC3PO : IButton
+    class ButtonC3PO : IDecorator
     {
-        public IButton ActualButton { get; set; }
+        public IDecorator ActualButton { get; set; }
 
-        public ButtonC3PO(IButton actualButton)
+        public ButtonC3PO(IDecorator actualButton)
         {
             this.ActualButton = actualButton;
         }

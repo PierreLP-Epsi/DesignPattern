@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern
 {
-    class ButtonDroid : IButton
+    class ButtonDroid : IDecorator
     {
         int heigth;
         int width;
